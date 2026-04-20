@@ -1,0 +1,9 @@
+# configs/eval.yaml
+
+dataset: data/val.jsonl
+batch_size: 64
+metrics:
+  - perplexity
+  - bleu
+  - rouge_l
+checkpoint: checkpoints/neve_cascade_90m.pt

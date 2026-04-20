@@ -1,0 +1,14 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dados
+/data/*.cache
+
+# Outros
+.env
+.DS_Store

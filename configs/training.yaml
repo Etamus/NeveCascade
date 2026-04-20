@@ -1,0 +1,17 @@
+# configs/training.yaml
+
+batch_size: 128
+learning_rate: 2e-4
+scheduler: cosine
+epochs: 24
+optimizer: adamw
+weight_decay: 0.01
+warmup_steps: 2000
+max_seq_length: 512
+grad_clip: 1.0
+dropout: 0.15
+seed: 42
+mixed_precision: true
+distributed: true
+log_dir: runs/neve_cascade
+save_dir: checkpoints/
