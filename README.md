@@ -1,9 +1,10 @@
-# Neve Cascade 90M
+<img width="1400" height="350" alt="Cascade" src="https://github.com/user-attachments/assets/fe176843-f720-4f96-b4f8-37ea2c9e451c" />
+
+---
 
 [![Model License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-green.svg)](https://www.python.org/)
 
-## Visão Geral
 O Neve Cascade 90M é um modelo de linguagem de grande porte (LLM) projetado para máxima eficiência, portabilidade e acessibilidade. Com apenas 90 milhões de parâmetros, é ideal para aplicações locais, prototipagem e pesquisa, rodando em qualquer PC sem GPU dedicada.
 
 ## Autoria e Responsabilidade
@@ -53,6 +54,3 @@ pip install -r requirements.txt
 ```
 
 Veja `docs/USAGE.md` para exemplos de inferência, exportação e quantização.
-
-## Contribua
-Contribuições são bem-vindas! Veja `CONTRIBUTING.md`.
