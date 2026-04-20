@@ -7,7 +7,7 @@
 
 O Neve Cascade 90M é um modelo de linguagem de grande porte (LLM) projetado para máxima eficiência, portabilidade e acessibilidade. Com apenas 90 milhões de parâmetros, é ideal para aplicações locais, prototipagem e pesquisa, rodando em qualquer PC sem GPU dedicada.
 
-## Autoria e Responsabilidade
+## Autoria
 Desenvolvido e finetunado por mim, utilizando pipeline proprietário, curadoria rigorosa de dados e técnicas de SOTA em NLP.
 
 
